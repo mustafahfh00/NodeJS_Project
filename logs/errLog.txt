@@ -1,0 +1,5 @@
+20250720	16:57:58	cf8ed40e-1288-49d4-bedc-4dc6afea838f	Error: Not allowed by CORS
+20250720	17:59:52	33713d4f-e1c7-45de-a981-243cda221e01	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\AUIS\VS code\nodeJS\routes\views\new-page.html'
+20250720	22:03:03	d422453d-241a-4557-b482-8f437799c933	SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)
+20250720	22:03:24	28e920e5-e07d-43e3-b66b-9027c34cf492	SyntaxError: Unexpected token 'a', ..."stname": name
+, "sec"... is not valid JSON
